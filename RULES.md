@@ -28,11 +28,13 @@ This happens 5 times until there are no more cards to play from both players. Po
 - Cards played face up are worth what their number is, unless...
 - Cards played face up that have the same suit as their lane are worth -3 points.
 - Face cards are all worth +1 (Ace, Jack, Queen, King and Jokers) {unless matching the lane suit}
-- Jack: 2x the value of all cards in the lane on the player's side
+- Jack: Flip and then swap one card for another in the current lane (can include the Jack)
 - Queen: Flip any card
 - King: Move any card to the same lane as the King
 - Ace: Choose an effect (Jack/Queen/King)
 - Joker: Shuffle the 10s and play three out face up.
+
+Effects of face cards happen when they are played face up, or when they are flipped face up.
 
 # Winner
 
