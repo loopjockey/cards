@@ -33,6 +33,8 @@ This happens 5 times until there are no more cards to play from both players. Po
 - King: Move any card to the same lane as the King
 - Ace: Choose an effect (Jack/Queen/King)
 - Joker: Shuffle the 10s and play three out face up.
+- 2s count as 10s if in their lane (i.e. 2 of hearts = 10 points if in hearts lane)
+- If at any point a player has all 4 7s face up on their side they win the whole game instantly.
 
 Effects of face cards happen when they are played face up, or when they are flipped face up.
 
