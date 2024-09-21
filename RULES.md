@@ -24,15 +24,15 @@ This happens 5 times until there are no more cards to play from both players. Po
 
 # Points
 
-Cards played face down are blank, and are worth a flat +3 points
-Cards played face up are worth what their number is, unless...
-Cards played face up that have the same suit as their lane are worth -3 points.
-Face cards are all worth +1 (Ace, Jack, Queen, King and Jokers) {unless matching the lane suit}
-Jack: 2x the value of all cards in the lane on the player's side
-Queen: Flip any card
-King: Move any card to the same lane as the King
-Ace: Choose an effect (Jack/Queen/King)
-Joker: Shuffle the 10s and play three out face up.
+- Cards played face down are blank, and are worth a flat +3 points
+- Cards played face up are worth what their number is, unless...
+- Cards played face up that have the same suit as their lane are worth -3 points.
+- Face cards are all worth +1 (Ace, Jack, Queen, King and Jokers) {unless matching the lane suit}
+- Jack: 2x the value of all cards in the lane on the player's side
+- Queen: Flip any card
+- King: Move any card to the same lane as the King
+- Ace: Choose an effect (Jack/Queen/King)
+- Joker: Shuffle the 10s and play three out face up.
 
 # Winner
 
