@@ -31,7 +31,7 @@ This happens 5 times until there are no more cards to play from both players. Po
 - Jack: Flip and then swap one card for another in the current lane (can include the Jack)
 - Queen: Flip any card
 - King: Move any card to the same lane as the King
-- Ace: Choose an effect (Jack/Queen/King)
+- Ace: Flip a lane card (10)
 - Joker: Shuffle the 10s and play three out face up.
 - 2s count as 10s if in their lane (i.e. 2 of hearts = 10 points if in hearts lane)
 - If at any point a player has all 4 7s face up on their side they win the whole game instantly.
